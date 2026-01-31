@@ -1,0 +1,11 @@
+{
+  "packageId": "com.fivg.apps_twa",
+  "host": "https://fivg.org",
+  "name": "FIVG",
+  "launcherName": "FIVG",
+  "startUrl": "/",
+  "displayMode": "standalone",
+  "themeColor": "#FFFFFF",
+  "backgroundColor": "#FFFFFF",
+  "iconUrl": "assets/icons/app_icon.png"
+}
